@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fiston Ntaganda</h1>
-<h5 align="center">Experienced frontend engineer who specializes in using popular web development technologies such as React, Angular, and TypeScript. also with a deep understanding of how these frameworks work and how they can be used to create rich, interactive user interfaces for web applications. I am always eager to learn about the latest advancements in frontend technologies and am constantly seeking ways to improve my skills and knowledge.</h5>
+<h6 align="center">Experienced frontend engineer who specializes in using popular web development technologies such as React, Angular, and TypeScript. also with a deep understanding of how these frameworks work and how they can be used to create rich, interactive user interfaces for web applications. I am always eager to learn about the latest advancements in frontend technologies and am constantly seeking ways to improve my skills and knowledge.</h6>
 
 - 🔭 I’m currently working on **Ionic Project**
 
