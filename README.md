@@ -2,7 +2,6 @@
 
 <p>Experienced software engineer who specialized in frontend technologies such as React, Angular, Nextjs,TypeScript, Tailwindcss and Nodejs.I have worked on various IT solutions in the field of education, health and business.</p>.
 
-
 - 🔭 I’m currently working on **Ionic Project**
 
 - 🌱 I’m currently learning **design patterns**
@@ -17,28 +16,31 @@
 =============================
 
 * [Software Engineer@ techaffinity](https://techaffinity.com/)\
-      <h5>Frebruary 2022 - present</h5> <br/>
-      Skills:&nbsp; React,Angular,Tailwindcss,Ionic and Nodejs
+      <h5>Feb 2022 - Present</h5> <br/>
+      Skills:&nbsp; React · Angular · Ionic · Redux · Nextjs · TailwindCss · Design Patterns · TypeScript
 * [Frontend Consultant@ Devmats + FDI](https://www.fdibiz.com/)
-    <h5>January 2023 - Frebuary 2023</h5><br/>
-   As a consultant, my responsibilities were to work with other members of the team to give guidance,add new features, and document the project workflow, which was an open source cyclos-angular application, and we had successfully delivered marketplace and banking system functionalities.
+    <h5>Jan 2023 - Feb 2023</h5><br/>
+   As a consultant, my responsibilities were to work with other members of the team to give guidance,add new features, and document the project workflow, which was an open source cyclos-angular application, and we had successfully delivered marketplace and banking system functionalities.<br/>
+   Skills: Cyclos opensource · Angular
 * [Freelancer Frontend Developer@ Kuranga Digital](http://www.kuranga.co/) <br/>
-     <h5>June 2022 - october 2022</h5> <br/>
+     <h5>Jun 2022 - Oct 2022</h5> <br/>
     My responsibilities as a frontend developer at Kuranga were to work hand in hand with the UI designer, manager, and backend team to design and develop a frontend application, which was a hospital management system.<br/>
-    Skills:&nbsp; React,Redux,Redux Toolkit,Ant design,Tailwindcss, Rechartjs
+    Skills: Redux Toolkit · Ant Design · Recharts · React · TailwindCss · Rechart
 * [Professional Trainee as Software Deleveloper@ICPAR](https://icparwanda.com/) <br/>
-      <h5> November 2021 - Frebruary 2022 </h5> <br/>
-* [Software Developer@ Genesis Softlab]() <br/>
-    <h5> June 2021 - November 2022 </h5> <br/>
-    Skills:&nbsp; Vuejs,Android Java,Laravel Rest APIS
+      <h5> Nov 2021 - Jan 2022</h5> <br/>
+      My responsibilities were to maintain existing software and give assistance in managing and scheduling meetings and events using different platforms.<br/>
+      Skills: QR · zoom · jQuery · HTML5 · Css3
 * [Software Engineer@ YAMBI TRAVEL Inc]() <br/>
-    * <h5> July 2021 - January 2022</h5> 
-    * <h5> November 30th,2020 - May 2021</h5> <br/>
-    Skills:&nbsp; Angular,Vuejs,Ant design
+    * <h5> Nov 2020 - Oct 2021</h5> <br/>
+    Skills: Vuejs · Ant Design · Angular · SASS
+* [Software Developer@ Genesis Softlab]() <br/>
+    <h5> Jul 2021 - Sep 2021</h5> <br/>
+    Skills: Android Java · Vuejs · Laravel
 * [Software Developer@ M-Siliconlab]() <br/>
-  <h5> July 2021 - January 2022</h5> <br/>
-* Skills : &nbsp;Laravel,Jquery,React
- 
+  <h5> Jun 2019 - Nov 2020</h5> <br/>
+  During this period, my team and I managed to develop two software applications, one for school management and the other for Blessed Diaries Ltd.'s operations management.<br/>
+  Skills: jQuery · React · Laravel · Bootstrap
+  
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/fiston ntaganda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fiston ntaganda" height="30" width="40" /></a>
 </p>
