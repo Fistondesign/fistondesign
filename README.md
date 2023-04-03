@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fiston Ntaganda</h1>
 
-<h4>Experienced software engineer who specialized in frontend technologies such as React, Angular, Nextjs,TypeScript, Tailwindcss and Nodejs.I have worked on various IT solutions in the field of education, health and business.</h4>.
+<p>Experienced software engineer who specialized in frontend technologies such as React, Angular, Nextjs,TypeScript, Tailwindcss and Nodejs.I have worked on various IT solutions in the field of education, health and business.</p>.
 
 
 - 🔭 I’m currently working on **Ionic Project**
