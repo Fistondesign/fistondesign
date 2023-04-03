@@ -37,7 +37,7 @@
     <h5> Jul 2021 - Sep 2021</h5> <br/>
     Skills: Android Java · Vuejs · Laravel
 * [Software Developer@ M-Siliconlab]() <br/>
-  <h5> Jun 2019 - Nov 2020</h5> <br/>
+  <h5> Jun 2017 - Nov 2020</h5> <br/>
   During this period, my team and I managed to develop two software applications, one for school management and the other for Blessed Diaries Ltd.'s operations management.<br/>
   Skills: jQuery · React · Laravel · Bootstrap
   
