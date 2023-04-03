@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any React,Angular,Nextjs and Nodejs**
 
-- 💬 Ask me about **React,Angular,Vuejs,Nextjs and design patterns**
+- 💬 Ask me about **React,Angular,Nextjs,tailwindcss and design patterns**
 
 - 📫 How to reach me **knfintaganda@gmail.com**
 
