@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fiston Ntaganda</h1>
 
-<p>Experienced software engineer who specialized in frontend and backend technologies such as React, Angular, Nextjs,TypeScript, Tailwindcss,Laravel,Nodejs and Php.I have worked on various IT solutions in the field of microfinance,education, health and business.</p>.
+<p>Experienced software engineer who specialized in frontend and backend technologies such as React, Angular, Nextjs,TypeScript, Tailwindcss,Laravel,Nodejs and Php.I have worked on various IT solutions in the field of microfinance,e-commerce,education, health and business.</p>.
 
 - 🔭 I’m currently working on ** angular,php and nodejs banking system**
 
