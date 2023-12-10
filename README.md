@@ -15,6 +15,9 @@
 ### Know about my experiences
 =============================
 
+* [Senior Software Developer@ Adfinance](https://www.adfinance.co/)\
+      <h5>July 2023 - Present</h5> <br/>
+      Skills:&nbsp;  Angular · Php · Nodejs
 * [Software Engineer@ techaffinity](https://techaffinity.com/)\
       <h5>Feb 2022 - Present</h5> <br/>
       Skills:&nbsp; React · Angular · Ionic · Redux · Nextjs · TailwindCss · Design Patterns · TypeScript
