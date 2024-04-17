@@ -19,7 +19,7 @@
       <h5>July 2023 - Present</h5> <br/>
       Skills:&nbsp;  Angular · Php · Nodejs
 * [Software Engineer@ techaffinity](https://techaffinity.com/)\
-      <h5>Feb 2022 - Present</h5> <br/>
+      <h5>Feb 2022 - July 2023</h5> <br/>
       Skills:&nbsp; React · Angular · Ionic · Redux · Nextjs · TailwindCss · Design Patterns · TypeScript
 * [Frontend Consultant@ Devmats + FDI](https://www.fdibiz.com/)
     <h5>Jan 2023 - Feb 2023</h5><br/>
